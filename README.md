@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BMamba01
+- 👋 Hi, I’m Naman Nagvanshi
 - 👀 I’m interested in ...Graphic and Game developing
 - 🌱 I’m currently learning ...C# for Unity and C++ for Unreal
 - 💞️ I’m looking to collaborate on ...any kind of interesting project
